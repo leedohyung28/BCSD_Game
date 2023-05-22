@@ -27,6 +27,9 @@
 > 
 > 이를 통해 이 후 주차에서 다양한 지형을 구현하고 UI 등을 구현
 
+<img src="https://github.com/leedohyung28/BCSD_Game/assets/91038179/d610dafc-cf54-4a48-8739-c0914f4b0a22" width="40%">
+
+
 #### 2주차 - 기본적인 시작 버튼 및 UI(연료통, 페달, 시작 버튼) 구현
 
 #### 3주차 - 상세화 된 UI(일시정지, 게임오버 시 UI) 및 시스템 (코인, 다이아, Level) 구현
